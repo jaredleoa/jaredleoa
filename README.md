@@ -1,16 +1,19 @@
-## Hi there 👋
+## Computer Science Graduate | Software Engineering Projects
 
-<!--
-**jaredleoa/jaredleoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end applications, backend services, and cloud-deployed systems.
 
-Here are some ideas to get you started:
+### Featured Projects
+- **BrewHand** — Full-stack mobile application with realtime backend integration  
+  https://github.com/jaredleoa/Brewhand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Transaction Risk Scoring Service** — Backend API for rule-based transaction evaluation  
+  https://github.com/jaredleoa/transaction-risk-service
+
+- **Payments Event Pipeline** — Cloud-based event ingestion using AWS and Terraform  
+  https://github.com/jaredleoa/payments-pipeline
+
+### Focus Areas
+- Backend development (Python, APIs)
+- Full-stack systems
+- Data modeling and persistence
+- Cloud-native systems
