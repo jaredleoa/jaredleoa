@@ -1,4 +1,4 @@
-## Computer Science Graduate | Software Engineering Projects
+## Computer Science Graduate | Software Development Projects
 
 I build end-to-end applications, backend services, and cloud-deployed systems.
 
